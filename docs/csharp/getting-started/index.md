@@ -1,8 +1,3 @@
----
-title: Get Started - an introduction to the C# language and .NET"
-description: Learn the basics of C# and .NET. Get an overview of the C# language and .NET ecosystem.
-ms.date: 10/13/2020
----
 # Introduction to the C# language and .NET
 
 C# is an elegant and type-safe object-oriented language. C# enables developers to build many types of secure and robust applications that run in the .NET ecosystem.
