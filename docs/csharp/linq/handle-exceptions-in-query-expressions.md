@@ -1,9 +1,4 @@
----
-title: Handle exceptions in query expressions (LINQ in C#)
-description: Learn how to handle exceptions in LINQ query expressions in C#.
-ms.date: 12/01/2016
-ms.assetid: 2bf0c397-13fb-4f68-bc2b-531c6c88a167
----
+
 # Handle exceptions in query expressions
 
 It's possible to call any method in the context of a query expression. However, we recommend that you avoid calling any method in a query expression that can create a side effect such as modifying the contents of the data source or throwing an exception. This example shows how to avoid raising exceptions when you call methods in a query expression without violating the general .NET guidelines on exception handling. Those guidelines state that it's acceptable to catch a specific exception when you understand why it's thrown in a given context. For more information, see [Best Practices for Exceptions](../../standard/exceptions/best-practices-for-exceptions.md).
