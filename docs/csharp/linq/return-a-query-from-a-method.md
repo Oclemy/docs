@@ -1,9 +1,4 @@
----
-title: Return a query from a method
-description: How to return a query.
-ms.date: 11/30/2016
-ms.assetid: db220f79-c35b-41f2-886c-cd068672d42d
----
+
 # How to return a query from a method (C# Programming Guide)
 
 This example shows how to return a query from a method as the return value and as an `out` parameter.  
