@@ -1,13 +1,3 @@
----
-title: "How to search strings (C# Guide)"
-description: Learn about two strategies to search for text in strings in C#. String class methods search for specific text. Regular expressions search for patterns in text.
-ms.date: 02/21/2018
-helpviewer_keywords: 
-  - "searching strings [C#]"
-  - "strings [C#], searching with String methods"
-  - "strings [C#], searching with regular expressions"
-ms.assetid: fb1d9a6d-598d-4a35-bd5f-b86012edcb2b
----
 
 # How to search strings
 
