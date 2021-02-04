@@ -1,9 +1,3 @@
----
-title: Perform grouped joins (LINQ in C#)
-description: Learn how to perform grouped joins using LINQ in C#.
-ms.date: 04/22/2020
-ms.assetid: 9667daf9-a5fd-4b43-a5c4-a9c2b744000e
----
 # Perform grouped joins
 
 The group join is useful for producing hierarchical data structures. It pairs each element from the first collection with a set of correlated elements from the second collection.
