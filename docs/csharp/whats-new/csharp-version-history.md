@@ -1,9 +1,3 @@
----
-title: The history of C# - C# Guide
-description: What did the language look like in its earliest versions, and how has it evolved since?
-author: erikdietrich
-ms.date: 04/08/2020
----
 
 # The history of C\#
 
