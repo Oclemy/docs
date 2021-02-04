@@ -1,8 +1,3 @@
----
-title: The relationship between language features and library types | Microsoft Docs
-description: Language features often rely on library types for implementation. Understand that relationship.
-ms.date: 07/20/2017
----
 
 # Relationships between language features and library types
 
