@@ -1,9 +1,4 @@
----
-title: Perform a subquery on a grouping operation (LINQ in C#)
-description: How to perform a subquery on a grouping operation using LINQ in C#.
-ms.date: 12/01/2016
-ms.assetid: d75a588e-9b6f-4f37-b195-f99ec8503855
----
+
 # Perform a subquery on a grouping operation
 
 This article shows two different ways to create a query that orders the source data into groups, and then performs a subquery over each group individually. The basic technique in each example is to group the source elements by using a *continuation* named `newGroup`, and then generating a new subquery against `newGroup`. This subquery is run against each new group that is created by the outer query. Note that in this particular example the final output is not a group, but a flat sequence of anonymous types.  
