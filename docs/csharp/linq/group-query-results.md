@@ -1,9 +1,4 @@
----
-title: Group query results (LINQ in C#)
-description: Learn how to group results using LINQ in C#.
-ms.date: 12/01/2016
-ms.assetid: 2e4ec27f-06fb-4de7-8973-0189906d4520
----
+
 # Group query results
 
 Grouping is one of the most powerful capabilities of LINQ. The following examples show how to group data in various ways:
