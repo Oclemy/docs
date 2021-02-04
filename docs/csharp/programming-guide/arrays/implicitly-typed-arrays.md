@@ -1,13 +1,3 @@
----
-title: "Implicitly Typed Arrays - C# Programming Guide"
-description: The type of an implicitly-typed array in C# is inferred from the elements in the array initializer. Use implicitly-typed arrays in query expressions.
-ms.date: 07/20/2015
-helpviewer_keywords:
-  - "arrays [C#], implicitly-typed"
-  - "implicitly-typed arrays [C#]"
-  - "C# language, implicitly typed arrays"
-ms.assetid: e05be95c-6732-403d-ae42-b35f057cbbea
----
 
 # Implicitly Typed Arrays (C# Programming Guide)
 
