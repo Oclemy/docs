@@ -1,9 +1,4 @@
----
-title: Perform custom join operations (LINQ in C#)
-description: Learn how to perform custom LINQ join operations in C#.
-ms.date: 12/01/2016
-ms.assetid: 56a2a4a5-7299-497d-b3c3-23c848678911
----
+
 # Perform custom join operations
 
 This example shows how to perform join operations that aren't possible with the `join` clause. In a query expression, the `join` clause is limited to, and optimized for, equijoins, which are by far the most common type of join operation. When performing an equijoin, you will probably always get the best performance by using the `join` clause.
