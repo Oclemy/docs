@@ -1,8 +1,3 @@
----
-title: How to articles (C# Guide)
-description: A collection of quick tips and short, focused code samples
-ms.date: 12/20/2017
----
 
 # How to (C#)
 
