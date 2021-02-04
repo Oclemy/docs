@@ -1,8 +1,4 @@
----
-title: A Tour of C# - Major language areas
-description: New to C#? Learn the basics of the language.
-ms.date: 08/06/2020
----
+
 # Major language areas
 
 ## Arrays, collections, and LINQ
