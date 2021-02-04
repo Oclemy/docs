@@ -1,8 +1,4 @@
----
-title: What's new in C# 9.0 - C# Guide
-description: Get an overview of the new features available in C# 9.0.
-ms.date: 09/04/2020
----
+
 # What's new in C# 9.0
 
 C# 9.0 adds the following features and enhancements to the C# language:
