@@ -1,9 +1,3 @@
----
-title: Query expression basics (LINQ in C#)
-description: Introduces concepts related to query expressions
-ms.date: 11/30/2016
-ms.assetid: 027db1f8-346f-44d2-a16e-043fcea3a4e0
----
 # Query expression basics
 
 This article introduces the basic concepts related to query expressions in C#.
