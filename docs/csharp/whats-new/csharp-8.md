@@ -1,8 +1,4 @@
----
-title: What's new in C# 8.0 - C# Guide
-description: Get an overview of the new features available in C# 8.0.
-ms.date: 04/07/2020
----
+
 # What's new in C# 8.0
 
 C# 8.0 adds the following features and enhancements to the C# language:
