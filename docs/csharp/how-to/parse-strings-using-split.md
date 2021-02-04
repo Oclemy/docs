@@ -1,15 +1,3 @@
----
-title: "Divide strings using String.Split (C# Guide)"
-description: The Split method returns an array of strings split from a set of delimiters. It's an easy way to extract substrings from a string.
-ms.date: 01/03/2018
-helpviewer_keywords:
-  - "splitting strings [C#]"
-  - "Split method [C#]"
-  - "strings [C#], splitting"
-  - "parse strings"
-ms.assetid: 729c2923-4169-41c6-9c90-ef176c1e2953
-ms.custom: mvc
----
 # How to separate strings using String.Split in C\#
 
 The <xref:System.String.Split%2A?displayProperty=nameWithType> method creates an
