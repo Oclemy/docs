@@ -1,9 +1,4 @@
----
-title: Perform inner joins (LINQ in C#)
-description: Learn how to perform inner joins using LINQ in C#.
-ms.date: 12/01/2016
-ms.assetid: 45bceed6-f549-4114-a9b1-b44feb497742
----
+
 # Perform inner joins
 
 In relational database terms, an *inner join* produces a result set in which each element of the first collection appears one time for every matching element in the second collection. If an element in the first collection has no matching elements, it does not appear in the result set. The <xref:System.Linq.Enumerable.Join%2A> method, which is called by the `join` clause in C#, implements an inner join.
