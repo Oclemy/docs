@@ -1,8 +1,4 @@
----
-title: Define types and their members - A tour of C#
-description: The building blocks of programs are types. Learn how to create classes, structs, interfaces, and more in C#.
-ms.date: 08/06/2020
----
+
 # Types and members
 
 ## Classes and objects
