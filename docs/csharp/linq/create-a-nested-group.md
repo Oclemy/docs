@@ -1,9 +1,4 @@
----
-title: Create a nested group (LINQ in C#)
-description: Learn how to create a nested group in a LINQ query expression in C#.
-ms.date: 12/01/2016
-ms.assetid: e9f00708-362e-4d13-98c5-d77549347ba0
----
+
 # Create a nested group
 
 The following example shows how to create nested groups in a LINQ query expression. Each group that is created according to student year or grade level is then further subdivided into groups based on the individuals' names.
