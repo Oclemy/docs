@@ -1,9 +1,3 @@
----
-title: Use the .NET Compiler Platform SDK syntax model
-description: This overview provides an understanding of the types you use to understand and manipulate syntax nodes.
-ms.date: 10/15/2017
-ms.custom: mvc
----
 # Work with syntax
 
 The *syntax tree* is a fundamental immutable data structure exposed by the compiler APIs. These trees represent the lexical and syntactic structure of source code. They serve two important purposes:
