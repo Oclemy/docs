@@ -1,8 +1,3 @@
----
-title: Use patterns in objects - C# tutorial
-description: This tutorial teaches you techniques to use pattern matching in class members to create better models for object behavior
-ms.date: 11/05/2020
----
 # Use pattern matching to build your class behavior for better code
 
 The pattern matching features in C# provide syntax to express your algorithms. You can use these techniques to implement the behavior in your classes. You can combine object-oriented class design with a data-oriented implementation to provide concise code while modeling real-world objects.
