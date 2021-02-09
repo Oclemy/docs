@@ -1,9 +1,3 @@
----
-title: Discards - C# Guide
-description: Describes C#'s support for discards, which are unassigned, discardable variables, and the ways in which discards can be used.
-ms.technology: csharp-fundamentals
-ms.date: 09/22/2020
----
 # Discards - C# Guide
 
 Starting with C# 7.0, C# supports discards, which are placeholder variables that are intentionally unused in application code. Discards are equivalent to unassigned variables; they do not have a value. Because there is only a single discard variable, and that variable may not even be allocated storage, discards can reduce memory allocations. Because they make the intent of your code clear, they enhance its readability and maintainability.
