@@ -1,10 +1,3 @@
----
-title: "Tutorial: Write your first analyzer and code fix"
-description: This tutorial provides step-by-step instructions to build an analyzer and code fix using the .NET Compiler SDK (Roslyn APIs).
-ms.date: 08/01/2018
-ms.custom: mvc
----
-
 # Tutorial: Write your first analyzer and code fix
 
 The .NET Compiler Platform SDK provides the tools you need to create custom warnings that target C# or Visual Basic code. Your **analyzer** contains code that recognizes violations of your rule. Your **code fix** contains the code that fixes the violation. The rules you implement can be anything from code structure to coding style to naming conventions and more. The .NET Compiler Platform provides the framework for running analysis as developers are writing code, and all the Visual Studio UI features for fixing code: showing squiggles in the editor, populating the Visual Studio Error List, creating the "light bulb" suggestions and showing the rich preview of the suggested fixes.
