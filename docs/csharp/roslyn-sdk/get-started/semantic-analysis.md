@@ -1,9 +1,3 @@
----
-title: Get started with semantic analysis
-description: This tutorial provides an overview of working with semantic analysis using the .NET Compiler SDK.
-ms.date: 02/06/2018
-ms.custom: mvc
----
 
 # Get started with semantic analysis
 
