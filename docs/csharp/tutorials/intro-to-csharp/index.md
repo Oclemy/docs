@@ -1,9 +1,3 @@
----
-title: Introduction to C# - interactive tutorials
-description: Learn C# in your browser, and get started with your own development environment
-ms.date: 08/22/2019
-ms.custom: mvc
----
 # Introduction to C\#
 
 Welcome to the introduction to C# tutorials. These lessons start with interactive code
