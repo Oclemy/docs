@@ -1,11 +1,3 @@
----
-title: Building Expression Trees
-description: Learn about techniques for building expression trees.
-ms.date: 06/20/2016
-ms.technology: csharp-advanced-concepts
-ms.assetid: 542754a9-7f40-4293-b299-b9f80241902c
----
-
 # Building Expression Trees
 
 [Previous -- Interpreting Expressions](expression-trees-interpreting.md)
