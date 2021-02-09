@@ -1,10 +1,3 @@
----
-title: String interpolation in C#
-description: Learn how to include formatted expression results in a result string in C# with string interpolation.
-author: pkulikov
-ms.technology: csharp-fundamentals
-ms.date: 09/02/2019
----
 # String interpolation in C\#
 
 This tutorial shows you how to use [string interpolation](../language-reference/tokens/interpolated.md) to format and include expression results in a result string. The examples assume that you are familiar with basic C# concepts and .NET type formatting. If you are new to string interpolation or .NET type formatting, check out the [interactive string interpolation tutorial](exploration/interpolated-strings.yml) first. For more information about formatting types in .NET, see the [Formatting Types in .NET](../../standard/base-types/formatting-types.md) topic.
