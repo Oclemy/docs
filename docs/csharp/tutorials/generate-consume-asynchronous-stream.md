@@ -1,10 +1,3 @@
----
-title: Generate and consume async streams
-description: This advanced tutorial shows how to generate and consume async streams. Async streams provide a more natural way to work with sequences of data that may be generated asynchronously.
-ms.date: 02/10/2019
-ms.technology: csharp-async
-ms.custom: mvc
----
 # Tutorial: Generate and consume async streams using C# 8.0 and .NET Core 3.0
 
 C# 8.0 introduces **async streams**, which model a streaming source of data. Data streams often retrieve or generate elements asynchronously. Async streams rely on new interfaces introduced in .NET Standard 2.1. These interfaces are supported in .NET Core 3.0 and later. They provide a natural programming model for asynchronous streaming data sources.
