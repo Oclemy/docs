@@ -1,9 +1,3 @@
----
-title: Introduction to events
-description: Learn about events in .NET Core and our language design goals for events in this overview.
-ms.date: 06/20/2016
-ms.assetid: 9b8d2a00-1584-4a5b-8994-5003d54d8e0c
----
 
 # Introduction to events
 
