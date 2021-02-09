@@ -1,9 +1,3 @@
----
-title: Nullable reference types
-description: This article provides an overview of nullable reference types, added in C# 8.0. You'll learn how the feature provides safety against null reference exceptions, for new and existing projects.
-ms.technology: csharp-null-safety
-ms.date: 04/21/2020
----
 # Nullable reference types
 
 C# 8.0 introduces **nullable reference types** and **non-nullable reference types** that enable you to make important statements about the properties for reference type variables:
