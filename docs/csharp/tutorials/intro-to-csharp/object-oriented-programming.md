@@ -1,8 +1,3 @@
----
-title: "Object-Oriented Programming (C#)"
-description: C# provides full support for object-oriented programming including abstraction, encapsulation, inheritance, and polymorphism.
-ms.date: 09/30/2020
----
 # Object-Oriented programming (C#)
 
 C# is an object-oriented language. Four of the key techniques used in object-oriented programming are:
