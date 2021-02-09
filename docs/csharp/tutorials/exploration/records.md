@@ -1,8 +1,4 @@
----
-title: Use record types - C# tutorial
-description: Learn about how to use record types, build hierarchies of records, and when to choose records over classes.
-ms.date: 11/12/2020
----
+
 # Create record types
 
 C# 9 introduces *records*, a new reference type that you can create instead of classes or structs. Records are distinct from classes in that record types use *value-based equality*. Two variables of a record type are equal if the record type definitions are identical, and if for every field, the values in both records are equal. Two variables of a class type are equal if the objects referred to are the same class type and the variables refer to the same object. Value-based equality implies other capabilities you'll probably want in record types. The compiler generates many of those members when you declare a `record` instead of a `class`.
