@@ -1,9 +1,3 @@
----
-title: Get started with syntax transformation (Roslyn APIs)
-description: An introduction to traversing, querying and walking syntax trees.
-ms.date: 06/01/2018
-ms.custom: mvc
----
 # Get started with syntax transformation
 
 This tutorial builds on concepts and techniques explored in the [Get started with syntax analysis](syntax-analysis.md) and [Get started with semantic analysis](semantic-analysis.md) quickstarts. If you haven't already, you should complete those quickstarts before beginning this one.
