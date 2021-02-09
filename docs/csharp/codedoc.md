@@ -1,10 +1,3 @@
----
-title: Documenting your code with XML comments
-description: Learn how to document your code with XML documentation comments and generate an XML documentation file at compile time.
-ms.date: 01/21/2020
-ms.technology: csharp-fundamentals
-ms.assetid: 8e75e317-4a55-45f2-a866-e76124171838
----
 # Document your code with XML comments
 
 XML documentation comments are a special kind of comment, added above the definition of any user-defined type or member.
