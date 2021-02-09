@@ -1,8 +1,4 @@
----
-title: C# Tutorials
-description: Explore these C# tutorials to learn how to build C# programs and learn C# language features.
-ms.date: 10/25/2018
----
+
 # C# Tutorials
 
 Welcome to the C# tutorials. These start with interactive lessons that you can run in your browser. Later tutorials and more advanced tutorials help you work with the .NET development tools to create C# programs on your machine.
