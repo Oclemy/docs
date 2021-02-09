@@ -1,8 +1,3 @@
----
-title: Introduction to C# - become familiar with the development tools
-description: This article provides a basic introduction to the tools you'll use to develop C# and .NET Applications on your machine.
-ms.date: 10/23/2018
----
 # Become familiar with the .NET development tools
 
 The first step in running a tutorial on your machine is to set up a development environment.
