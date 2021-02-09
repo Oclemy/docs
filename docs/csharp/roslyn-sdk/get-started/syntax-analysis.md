@@ -1,9 +1,3 @@
----
-title: Get started with syntax analysis (Roslyn APIs)
-description: An introduction to traversing, querying and walking syntax trees.
-ms.date: 02/05/2018
-ms.custom: mvc
----
 # Get started with syntax analysis
 
 In this tutorial, you'll explore the **Syntax API**. The Syntax API provides access to the data structures that describe a C# or Visual Basic program. These data structures have enough detail that they can fully represent any program of any size. These structures can describe complete programs that compile and run correctly. They can also describe incomplete programs, as you write them, in the editor.
