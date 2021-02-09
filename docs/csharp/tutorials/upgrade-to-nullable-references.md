@@ -1,10 +1,3 @@
----
-title: Upgrade to nullable reference types
-description: This advanced tutorial demonstrates how to migrate existing code with nullable reference types.
-ms.date: 02/19/2019
-ms.technology: csharp-null-safety
-ms.custom: mvc
----
 # Tutorial: Migrate existing code with nullable reference types
 
 C# 8 introduces **nullable reference types**, which complement reference types the same way nullable value types complement value types. You declare a variable to be a **nullable reference type** by appending a `?` to the type. For example, `string?` represents a nullable `string`. You can use these new types to more clearly express your design intent: some variables *must always have a value*, others *may be missing a value*. Any existing variables of a reference type would be interpreted as a non-nullable reference type.
