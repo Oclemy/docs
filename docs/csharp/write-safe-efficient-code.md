@@ -1,10 +1,3 @@
----
-title: Write safe and efficient C# code
-description: Recent enhancements to the C# language enable you to write verifiable safe code that the performance previously associated with unsafe code. 
-ms.date: 03/17/2020
-ms.technology: csharp-advanced-concepts
-ms.custom: mvc
----
 # Write safe and efficient C# code
 
 New features in C# enable you to write verifiable safe code with better performance. If you carefully apply these techniques, fewer scenarios require unsafe code. These features make it easier to use references to value types as method arguments and method returns. When done safely, these techniques minimize copying value types. By using value types, you can minimize the number of allocations and garbage collection passes.
