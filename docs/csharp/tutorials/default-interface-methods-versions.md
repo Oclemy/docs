@@ -1,10 +1,3 @@
----
-title: Safely update interfaces using default interface methods in C#
-description: This advanced tutorial explores how you can safely add new capabilities to existing interface definitions without breaking all classes and structs that implement that interface.
-ms.date: 05/06/2019
-ms.technlogy: csharp-advanced-concepts
-ms.custom: mvc
----
 # Tutorial: Update interfaces with default interface methods in C# 8.0
 
 Beginning with C# 8.0 on .NET Core 3.0, you can define an implementation when you declare a member of an interface. The most common scenario is to safely add members to an interface already released and used by innumerable clients.
